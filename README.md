@@ -1,5 +1,4 @@
 # Wine-Quality-Prediction
-# Wine Quality Prediction Project
 
 ## Overview
 
